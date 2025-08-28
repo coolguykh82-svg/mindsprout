@@ -1,0 +1,27 @@
+{
+  "short_name": "MINDSPROUT",
+  "name": "MINDSPROUT",
+  "description": "아이의 사진으로 긍정적이고 동기를 부여하는 AI 분석을 생성합니다.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4CAF50",
+  "background_color": "#f9f9f9"
+}

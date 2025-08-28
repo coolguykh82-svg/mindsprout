@@ -1,0 +1,7 @@
+{
+  "name": "MINDSPROUT_v3",
+  "description": "아이의 사진으로 긍정적이고 동기를 부여하는 AI 분석을 생성합니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
